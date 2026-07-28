@@ -15,9 +15,9 @@ A simple and interactive Traffic Signal Simulator built using HTML, CSS, and Jav
 
 # Project Structure
 Traffic-Signal-Simulator/
-│── index.html
-│── style.css
-│── script.js
+│── trafficsignal.html
+│── trafficsignal.css
+│── trafficsignal.js
 └── README.md
 
 # Learning Objectives
